@@ -1,0 +1,10 @@
+name: ATACseq
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - bwa=0.7.17 # alignment
+  - MACS2 # peak calling
+  - samtools # SAM file processing
+  - fastp # fastq preprocessor QC

@@ -1,0 +1,2 @@
+ENA_dir: "../ATACseq/data/ENA.txt"
+index_dir: "../references/genomes/hg38/bwa_index/bwa-0.7.17"
