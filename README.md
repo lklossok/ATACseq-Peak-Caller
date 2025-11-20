@@ -18,9 +18,11 @@ ATAC-seq processing pipeline implemented using Snakemake. The workflow downloads
 # Inputs:
 
 paired-end ATACseq FASTQ files from the European Nucleotide Archive 
+
 hg38 bwa inex
 
 # Outputs:
 
 Processed ATACseq BAM files
+
 Genome-wide narrowPeak files
